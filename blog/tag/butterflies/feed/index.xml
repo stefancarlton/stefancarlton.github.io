@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>butterflies &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/butterflies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>My last days in South America</title>
+		<link>/blog/2011/08/20/my-last-days-in-south-america/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Sat, 20 Aug 2011 09:07:58 +0000</pubDate>
+				<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[adventure]]></category>
+		<category><![CDATA[butterflies]]></category>
+		<guid isPermaLink="false">/?p=647</guid>
+
+					<description><![CDATA[When travelling you always hear stories about places that are dangerous and where to be careful. Plenty of people make things sound much worse than they actually are but one such place is Quito. i heard so many stories of people getting robbed I decided to avoid it and stay two hours away in a [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-0.0487170 -78.7751999</georss:point>	</item>
+	</channel>
+</rss>

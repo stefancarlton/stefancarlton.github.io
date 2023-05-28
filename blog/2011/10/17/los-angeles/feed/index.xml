@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>
+	Comments on: Los Angeles	</title>
+	<atom:link href="/blog/2011/10/17/los-angeles/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/2011/10/17/los-angeles/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>
+		By: Stefan Carlton		</title>
+		<link>/blog/2011/10/17/los-angeles/#comment-106</link>
+
+		<dc:creator><![CDATA[Stefan Carlton]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2011 02:17:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=774#comment-106</guid>
+
+					<description><![CDATA[Testing the comment integration between Facebook and my website...]]></description>
+			<content:encoded><![CDATA[<p>Testing the comment integration between Facebook and my website&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

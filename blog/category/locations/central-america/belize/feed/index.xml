@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Belize &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/category/locations/central-america/belize/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>A catch up post (Copan, Volcanos, Kayaking, Tikal, Semuc Champey, The Blue Hole, Belize Independence Day, Coco Bongos)</title>
+		<link>/blog/2011/10/02/a-catch-up-post-copan-volcanos-kayaking-tikal-summuc-champey-the-blue-hole-belize-independence-day-coco-bongos/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Sun, 02 Oct 2011 03:27:06 +0000</pubDate>
+				<category><![CDATA[Belize]]></category>
+		<category><![CDATA[Guatemala]]></category>
+		<category><![CDATA[Honduras]]></category>
+		<category><![CDATA[Mexico]]></category>
+		<category><![CDATA[Travel]]></category>
+		<guid isPermaLink="false">/?p=761</guid>
+
+					<description><![CDATA[Hmm, it appears that I&#8217;ve neglected the blog somewhat! I&#8217;m currently sitting in San Francisco and the blog still thinks I’m in Rio Dulce in Guatemala! It’s easy to see why I’m behind – I’ve been having too much fun to sit down and write about things! To catch myself back up, I figured I’d [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Fountain &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/fountain/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Lima&#8217;s Magic Water Circuit, Parque de la Reserva</title>
+		<link>/blog/2011/07/08/limas-magic-water-circuit-parque-de-la-reserva/</link>
+					<comments>/blog/2011/07/08/limas-magic-water-circuit-parque-de-la-reserva/#comments</comments>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Fri, 08 Jul 2011 23:59:00 +0000</pubDate>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Fountain]]></category>
+		<category><![CDATA[Lima]]></category>
+		<category><![CDATA[sights]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">/?p=457</guid>
+
+					<description><![CDATA[I found out about the Magical Water Circuit in Lima by accident when trawling the web to see what was a-happening here. According to Wikipedia it was built by the President, cost $13m and is the largest fountain complex in the world. What ever stats it has, it’s simply kinda cool! I took a taxi [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog/2011/07/08/limas-magic-water-circuit-parque-de-la-reserva/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<georss:point>-12.0713053 -77.0342941</georss:point>	</item>
+	</channel>
+</rss>

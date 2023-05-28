@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>rurrenbaque &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/rurrenbaque/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Smiling and Pointing at things in South America</title>
+		<link>/blog/2011/08/04/smiling-and-pointing-at-things-in-south-america/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2011 15:45:47 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[cusco]]></category>
+		<category><![CDATA[Galapagos]]></category>
+		<category><![CDATA[la paz]]></category>
+		<category><![CDATA[lagoon]]></category>
+		<category><![CDATA[Machu Picchu]]></category>
+		<category><![CDATA[mountain bike]]></category>
+		<category><![CDATA[rurrenbaque]]></category>
+		<category><![CDATA[tupiza]]></category>
+		<guid isPermaLink="false">/?p=608</guid>
+
+					<description><![CDATA[My mother may have taught me that pointing at things is rude, but it hasn&#8217;t stopped me in South America. Here are my favourites&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rurrenbaque Pampas tour</title>
+		<link>/blog/2011/06/30/rurrenbaque-pampas-tour/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2011 23:58:00 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[jungle]]></category>
+		<category><![CDATA[pampas]]></category>
+		<category><![CDATA[rurrenbaque]]></category>
+		<guid isPermaLink="false">/?p=416</guid>
+
+					<description><![CDATA[The saying goes, when one door closes, another opens. Travelling is helping confirm this to be true. In Sucre I met a lovely Dutch couple whom I planned to meet in La Paz for a trip into Rurrenbaque, we conversed via Facebook and I was going to get myself onto the same tour as them [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-14.4422226 -67.5283356</georss:point>	</item>
+	</channel>
+</rss>

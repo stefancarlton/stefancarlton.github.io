@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>tupiza &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/tupiza/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Smiling and Pointing at things in South America</title>
+		<link>/blog/2011/08/04/smiling-and-pointing-at-things-in-south-america/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2011 15:45:47 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[cusco]]></category>
+		<category><![CDATA[Galapagos]]></category>
+		<category><![CDATA[la paz]]></category>
+		<category><![CDATA[lagoon]]></category>
+		<category><![CDATA[Machu Picchu]]></category>
+		<category><![CDATA[mountain bike]]></category>
+		<category><![CDATA[rurrenbaque]]></category>
+		<category><![CDATA[tupiza]]></category>
+		<guid isPermaLink="false">/?p=608</guid>
+
+					<description><![CDATA[My mother may have taught me that pointing at things is rude, but it hasn&#8217;t stopped me in South America. Here are my favourites&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>On Tupiza</title>
+		<link>/blog/2011/06/09/on-tupiza/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Thu, 09 Jun 2011 23:57:00 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[cities]]></category>
+		<category><![CDATA[onPlaces]]></category>
+		<category><![CDATA[tupiza]]></category>
+		<guid isPermaLink="false">/?p=380</guid>
+
+					<description><![CDATA[I’ve been travelling about a month now and out of all the places I’ve visited (Cusco, Puno, Copacabana, La Paz and Uyini/Southern Circuit) Tupiza has to be my favourite. The scenery is simply stunning and when walking outside of town I can’t help but feel I’m in a Clint Eastwood Western. The mountains are a [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-21.4359722 -65.7191849</georss:point>	</item>
+		<item>
+		<title>Two day horse trek, Tupiza</title>
+		<link>/blog/2011/06/07/two-day-horse-trek-tupiza/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Tue, 07 Jun 2011 18:02:16 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[horse]]></category>
+		<category><![CDATA[tour]]></category>
+		<category><![CDATA[tupiza]]></category>
+		<guid isPermaLink="false">/?p=387</guid>
+
+					<description><![CDATA[It all started out well with the trip costing B$400 (~£37) with a reputable company and I left at 10am with one other person. The other person on the trip, a Dutch girl called Theresa, spoke Spanish and English so away we went walking to the stables. The horses were well looked after and didn’t [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-21.4359722 -65.7191849</georss:point>	</item>
+	</channel>
+</rss>

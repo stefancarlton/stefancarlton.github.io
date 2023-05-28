@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>mountain bike &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/mountain-bike/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>On Baños</title>
+		<link>/blog/2011/08/13/on-banos/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Sat, 13 Aug 2011 04:18:00 +0000</pubDate>
+				<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[mountain bike]]></category>
+		<category><![CDATA[onPlaces]]></category>
+		<guid isPermaLink="false">/?p=633</guid>
+
+					<description><![CDATA[After Cuenca Julia and I headed to Baños via Riobamba. Riobamba was the first place I’ve actually been scared. The people were intimidating, nosey and would come up to me, push me about&#8230; The bus company wouldn’t sell us a ticket. It was so horrible and I was so nervous that I tied my big [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-1.3963889 -78.4247208</georss:point>	</item>
+		<item>
+		<title>Smiling and Pointing at things in South America</title>
+		<link>/blog/2011/08/04/smiling-and-pointing-at-things-in-south-america/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2011 15:45:47 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[cusco]]></category>
+		<category><![CDATA[Galapagos]]></category>
+		<category><![CDATA[la paz]]></category>
+		<category><![CDATA[lagoon]]></category>
+		<category><![CDATA[Machu Picchu]]></category>
+		<category><![CDATA[mountain bike]]></category>
+		<category><![CDATA[rurrenbaque]]></category>
+		<category><![CDATA[tupiza]]></category>
+		<guid isPermaLink="false">/?p=608</guid>
+
+					<description><![CDATA[My mother may have taught me that pointing at things is rude, but it hasn&#8217;t stopped me in South America. Here are my favourites&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>On Northern Peru</title>
+		<link>/blog/2011/07/25/on-northern-peru/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Mon, 25 Jul 2011 23:16:00 +0000</pubDate>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[mountain bike]]></category>
+		<category><![CDATA[onPlaces]]></category>
+		<category><![CDATA[scammed]]></category>
+		<guid isPermaLink="false">/?p=475</guid>
+
+					<description><![CDATA[After leaving Lima, I motored through Northern Peru staying at most one day in each location, it seemed daft therefore to dedicate a post to each place. Here is a round-up of my travels through Northern Peru… Huaraz My first stop after leaving Lima was the trekker’s haven in the Cordillera’s for a spot of [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-4.0999999 -81.0500031</georss:point>	</item>
+		<item>
+		<title>Mountain biking in Huaraz</title>
+		<link>/blog/2011/07/22/mountain-biking-in-huaraz/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2011 23:31:39 +0000</pubDate>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[mountain bike]]></category>
+		<guid isPermaLink="false">/?p=474</guid>
+
+					<description><![CDATA[One of the things I’m missing here is my mountain bike and exercise. Throughout Peru and Bolivia I’ve found it hard to do anything other than relax due to the altitude, but since I was coping better I decided to try my hand again in Huaraz. Since I’d missed the first day by arriving late, [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-9.5333328 -77.5333328</georss:point>	</item>
+	</channel>
+</rss>

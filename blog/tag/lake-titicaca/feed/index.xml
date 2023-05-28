@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>lake titicaca &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/lake-titicaca/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Isla Del Sol</title>
+		<link>/blog/2011/05/25/isla-del-sol/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Wed, 25 May 2011 23:52:31 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[copacabana]]></category>
+		<category><![CDATA[island]]></category>
+		<category><![CDATA[island of the sun]]></category>
+		<category><![CDATA[lake titicaca]]></category>
+		<category><![CDATA[trout]]></category>
+		<guid isPermaLink="false">/?p=325</guid>
+
+					<description><![CDATA[Isla Del Sol is an island off the coast of Copacabana and it has various meanings in Inca mythology. After a lazy breakfast, goodbyes to Melissa and Pete (they headed to La Paz), a fresh trout lunch (delicious!) we jumped on a boat headed for the north island Isla Del Sol. On the boat we [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-16.0178394 -69.1715317</georss:point>	</item>
+		<item>
+		<title>Leaving Cusco for Bolivia &#8211; a bit of an adventure</title>
+		<link>/blog/2011/05/22/leaving-cusco-for-bolivia-a-bit-of-an-adventure/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Sun, 22 May 2011 23:30:23 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[blockade]]></category>
+		<category><![CDATA[boat]]></category>
+		<category><![CDATA[copacabana]]></category>
+		<category><![CDATA[lake titicaca]]></category>
+		<category><![CDATA[puno]]></category>
+		<category><![CDATA[roadblocks]]></category>
+		<guid isPermaLink="false">/?p=318</guid>
+
+					<description><![CDATA[Plans change all the time and sometimes they change very quickly. My original idea was to leave Cusco on Saturday and travel during the day to Puno, stay overnight, see the sights on the Sunday morning and then move on to Copacabana on Sunday afternoon. Things didn’t quite go to plan. First of all, the [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-15.8433332 -70.0236130</georss:point>	</item>
+	</channel>
+</rss>

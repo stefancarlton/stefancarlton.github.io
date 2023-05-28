@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Galapagos &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/galapagos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Smiling and Pointing at things in South America</title>
+		<link>/blog/2011/08/04/smiling-and-pointing-at-things-in-south-america/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2011 15:45:47 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[cusco]]></category>
+		<category><![CDATA[Galapagos]]></category>
+		<category><![CDATA[la paz]]></category>
+		<category><![CDATA[lagoon]]></category>
+		<category><![CDATA[Machu Picchu]]></category>
+		<category><![CDATA[mountain bike]]></category>
+		<category><![CDATA[rurrenbaque]]></category>
+		<category><![CDATA[tupiza]]></category>
+		<guid isPermaLink="false">/?p=608</guid>
+
+					<description><![CDATA[My mother may have taught me that pointing at things is rude, but it hasn&#8217;t stopped me in South America. Here are my favourites&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Galapagos &#8211; The Sublime</title>
+		<link>/blog/2011/08/02/galapagos-the-sublime/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Tue, 02 Aug 2011 12:21:20 +0000</pubDate>
+				<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Boat trip]]></category>
+		<category><![CDATA[Galapagos]]></category>
+		<category><![CDATA[onPlaces]]></category>
+		<guid isPermaLink="false">/?p=505</guid>
+
+					<description><![CDATA[This is the second half of my Galapagos post,, a tale of why I think the islands are the most extraordinary place I’ve ever visited and why every time I think of my time there, I now smile. ]]></description>
+		
+		
+		
+		<georss:point>-0.8292784 -90.9820633</georss:point>	</item>
+		<item>
+		<title>Galapagos &#8211; The Ugly Side</title>
+		<link>/blog/2011/08/02/galapagos-the-ugly-side/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Tue, 02 Aug 2011 11:33:55 +0000</pubDate>
+				<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Boat trip]]></category>
+		<category><![CDATA[Galapagos]]></category>
+		<category><![CDATA[onPlaces]]></category>
+		<guid isPermaLink="false">/?p=503</guid>
+
+					<description><![CDATA[This is the first half on my Galapagos blog post, explaining why the tour was a complete disaster and why I was in tears at one point. 
+
+When I started my RTW trip I had no intentions of heading to the Galapagos as the costs were too high for my budget, but after deciding to abandon the Japanese Grand Prix (and possibly Japan altogether) and hearing all the wonderful stories of travellers who had come from the islands I decided to rejig finances and make the trip. ]]></description>
+		
+		
+		
+		<georss:point>-0.8292784 -90.9820633</georss:point>	</item>
+	</channel>
+</rss>

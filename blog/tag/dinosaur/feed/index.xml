@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>dinosaur &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/dinosaur/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Trek to Dinosaur footprints via Maragua</title>
+		<link>/blog/2011/06/18/trek-to-dinosaur-footprints-via-maragua/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2011 23:11:00 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[dinosaur]]></category>
+		<category><![CDATA[sights]]></category>
+		<category><![CDATA[sucre]]></category>
+		<guid isPermaLink="false">/?p=406</guid>
+
+					<description><![CDATA[Whilst researching Sucre, there were three things I wanted to do – take a Spanish course, see the dinosaur footprints and pop up to the Meteor crater. Whilst visiting Tarabuco a new fiend, Kelly, mentioned that she was embarking on a trek the following day with some friends to visit the crater and some dinosaur [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-18.9572697 -65.7775269</georss:point>	</item>
+	</channel>
+</rss>

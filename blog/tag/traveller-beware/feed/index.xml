@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>traveller beware &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/traveller-beware/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Scammed, it had to happen even though I was careful!</title>
+		<link>/blog/2011/07/20/scammed-it-had-to-happen-even-though-i-was-careful/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Wed, 20 Jul 2011 02:23:13 +0000</pubDate>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[journal]]></category>
+		<category><![CDATA[traveller beware]]></category>
+		<category><![CDATA[Trillijo]]></category>
+		<guid isPermaLink="false">/?p=477</guid>
+
+					<description><![CDATA[I read all the guide books. I read all the “danger you will die whilst travelling” information. I always split my monies up and never carried anything valuable with me. I did everything I could to be careful and I still managed to be scammed, lose £30 and have my mobile stolen. It was so [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-8.1120005 -79.0288010</georss:point>	</item>
+	</channel>
+</rss>

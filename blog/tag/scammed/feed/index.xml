@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>scammed &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/scammed/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>On Northern Peru</title>
+		<link>/blog/2011/07/25/on-northern-peru/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Mon, 25 Jul 2011 23:16:00 +0000</pubDate>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[mountain bike]]></category>
+		<category><![CDATA[onPlaces]]></category>
+		<category><![CDATA[scammed]]></category>
+		<guid isPermaLink="false">/?p=475</guid>
+
+					<description><![CDATA[After leaving Lima, I motored through Northern Peru staying at most one day in each location, it seemed daft therefore to dedicate a post to each place. Here is a round-up of my travels through Northern Peru… Huaraz My first stop after leaving Lima was the trekker’s haven in the Cordillera’s for a spot of [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-4.0999999 -81.0500031</georss:point>	</item>
+	</channel>
+</rss>

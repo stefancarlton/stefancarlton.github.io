@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>packing list &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/packing-list/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>My RTW (Round The World) packing list</title>
+		<link>/blog/2011/04/29/my-rtw-packing-list/</link>
+					<comments>/blog/2011/04/29/my-rtw-packing-list/#comments</comments>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2011 19:21:06 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[clothes]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[journal]]></category>
+		<category><![CDATA[packing list]]></category>
+		<guid isPermaLink="false">/?p=254</guid>
+
+					<description><![CDATA[I decided very early on that I didn&#8217;t want to be someone who carried too much stuff.  Given that travelling was entirely new to me, I spent a lot of time working of other people&#8217;s lists, picking up tips where appropriate and built up my list. I still manage to carry a stupid amount of [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog/2011/04/29/my-rtw-packing-list/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

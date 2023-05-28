@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Tips &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/category/travel/tips/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Sleeping in a dorm &#8211; how to practice</title>
+		<link>/blog/2012/02/29/sleeping-in-a-dorm-how-to-practice/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Wed, 29 Feb 2012 03:51:05 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Tips]]></category>
+		<category><![CDATA[Travel]]></category>
+		<guid isPermaLink="false">/?p=1536</guid>
+
+					<description><![CDATA[One aspect of travelling that was new to me (and presumably most people) is sleeping in dormitories – here are a few ways you can prepare yourself.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Thailand &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/category/locations/south-east-asia/thailand/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Finishing off in South East Asia</title>
+		<link>/blog/2012/03/25/finishing-off-in-south-east-asia/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Sun, 25 Mar 2012 00:21:24 +0000</pubDate>
+				<category><![CDATA[Cambodia]]></category>
+		<category><![CDATA[Singapore]]></category>
+		<category><![CDATA[Thailand]]></category>
+		<category><![CDATA[Travel]]></category>
+		<guid isPermaLink="false">/?p=1543</guid>
+
+					<description><![CDATA[It’s about one month since I last wrote a blog post partially due to a bit of writers block so I thought I’d jot down a note saying how I finished off my time in South East Asia.]]></description>
+		
+		
+		
+		<georss:point>6.4986110 99.3083344</georss:point>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Costa Rica &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/category/locations/central-america/costa-rica/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Getting through Costa Rica</title>
+		<link>/blog/2011/09/02/getting-through-costa-rica/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Fri, 02 Sep 2011 05:21:00 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[Travel]]></category>
+		<guid isPermaLink="false">/?p=676</guid>
+
+					<description><![CDATA[After leaving Bocas Del Toro, Nick and I were both headed to San Jose so took the ferry back off the islands and onto the mainland. A bus later we arrived in Changuinola and waited for our bus to San Jose. It was a doddle to do – we just jumped on board it took [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

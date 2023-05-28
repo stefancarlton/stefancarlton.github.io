@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>salt flats &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/salt-flats/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Bolivia Southern Circuit, not according to the manual</title>
+		<link>/blog/2011/06/04/bolivia-southern-circuit-not-according-to-the-manual/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Sat, 04 Jun 2011 03:50:00 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[crash]]></category>
+		<category><![CDATA[drunk driver]]></category>
+		<category><![CDATA[lagoon]]></category>
+		<category><![CDATA[salar]]></category>
+		<category><![CDATA[salt flats]]></category>
+		<category><![CDATA[tour]]></category>
+		<category><![CDATA[uyini]]></category>
+		<guid isPermaLink="false">/?p=378</guid>
+
+					<description><![CDATA[I’ve mentioned before, but plans do change very quickly whilst travelling. Whilst in La Paz I decided to head to Sucre stay there for a little while before heading for Tupiza and the 4 day Southern tour out of Tupiza – I had even bought my ticket for B$130 (~£12), however I met back up [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-20.4990635 -66.8353271</georss:point>	</item>
+	</channel>
+</rss>

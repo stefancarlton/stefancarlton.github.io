@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>winter solstice &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/winter-solstice/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Tiwanaku Winter Solstice</title>
+		<link>/blog/2011/07/03/tiwanaku-winter-solstice/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Sun, 03 Jul 2011 23:41:00 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[la paz]]></category>
+		<category><![CDATA[sights]]></category>
+		<category><![CDATA[Tiwanaku]]></category>
+		<category><![CDATA[winter solstice]]></category>
+		<guid isPermaLink="false">/?p=456</guid>
+
+					<description><![CDATA[Winter Solstice (21st July) is a big thing in Latin America, for them it represents the change in season and thus the time to reap or sow the crop. As a result, many of the ancient temples are designed so that elements light up with the sunrise on the specific days (think Stonehenge in the [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-16.5519905 -68.6788177</georss:point>	</item>
+	</channel>
+</rss>

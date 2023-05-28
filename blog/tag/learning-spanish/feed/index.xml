@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>learning spanish &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/learning-spanish/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Learning Spanish in Sucre</title>
+		<link>/blog/2011/06/21/learning-spanish-in-sucre/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2011 23:35:00 +0000</pubDate>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[cities]]></category>
+		<category><![CDATA[learning spanish]]></category>
+		<category><![CDATA[onPlaces]]></category>
+		<category><![CDATA[sucre]]></category>
+		<guid isPermaLink="false">/?p=410</guid>
+
+					<description><![CDATA[Before I had bought tickets for my travels I decided that I needed to learn some Spanish in order to not be completely lost when I arrived in South America. I started my lessons with Esther in Gateshead and studied, one lesson a week, for 90minutes. Given I only had three months available I was [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-19.0421391 -65.2558823</georss:point>	</item>
+	</channel>
+</rss>

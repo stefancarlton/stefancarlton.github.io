@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Sacsayhuamán &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/sacsayhuaman/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Sacsayhuam&#225;n</title>
+		<link>/blog/2011/05/07/sacsayhuamn/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Sat, 07 May 2011 16:43:57 +0000</pubDate>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[cusco]]></category>
+		<category><![CDATA[Sacred Valley]]></category>
+		<category><![CDATA[Sacsayhuamán]]></category>
+		<category><![CDATA[sights]]></category>
+		<guid isPermaLink="false">/travel/sacsayhuamn/</guid>
+
+					<description><![CDATA[After a late start I decided to take the Lonely Planets walking tour of Cusco and whilst going over old ground, I enjoyed sauntering along passing the time. The end of the walk is a trek up to Sacsayhuamán, which I did, but in a different way to that listed. The standard way is to [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>-13.5050344 -71.9801407</georss:point>	</item>
+	</channel>
+</rss>

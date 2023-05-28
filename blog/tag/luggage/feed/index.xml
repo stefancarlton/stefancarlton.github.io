@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>luggage &#8211; StefanCarlton.net</title>
+	<atom:link href="/blog/tag/luggage/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>my little place on the web</description>
+	<lastBuildDate>Sun, 27 Sep 2020 05:57:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>That Rhod Gilbert Sketch of lost luggage</title>
+		<link>/blog/2011/08/22/that-rhod-gilbert-sketch-of-lost-luggage/</link>
+		
+		<dc:creator><![CDATA[Stefan]]></dc:creator>
+		<pubDate>Mon, 22 Aug 2011 23:57:49 +0000</pubDate>
+				<category><![CDATA[Panama]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[luggage]]></category>
+		<guid isPermaLink="false">/?p=652</guid>
+
+					<description><![CDATA[Rhod Gilbert has a sketch on Youtube which is all about turning up to Australia and his luggage not making it. He stands watching a handle go around and around and around laughing at the poor sap who owns the handle. Then he realises it’s his handle and has to try and get the airline [&#8230;]]]></description>
+		
+		
+		
+		<georss:point>8.9942694 -79.5187912</georss:point>	</item>
+	</channel>
+</rss>
